@@ -1,9 +1,10 @@
-fb64ffb942a9d958010efe7dc82109fe *DESCRIPTION
+95b4d8d7e8d7dc2cddd6f4f3bd679ffb *DESCRIPTION
 9f2197bf7fbe4cf24114acff55d72587 *LICENSE
 2240d07b29f133eb49ecc3ee95bcc7c7 *NAMESPACE
+4b06767dcd7bf7840341983c64c0a0c8 *NEWS
 0adfc6dca53a63ee8ebc41239f7b656f *R/RcppExports.R
 13e4b32f06e8c8dbe10ba9a16d758610 *R/piton.R
-57074e5f3da15063cf71d30ec3503c0c *README.md
+c6e1a5b27011306d77df8898209d3cd2 *README.md
 6bdcc43659b76e8f87e0f9eeda240dec *inst/include/pegtl.hpp
 3ee2b782f03134fa55c28453d5c8e26c *inst/include/pegtl/analysis/analyze_cycles.hpp
 b8627219b5d84d9e43d45d541cc11a36 *inst/include/pegtl/analysis/counted.hpp
@@ -65,7 +66,7 @@ b7310baf60721bb5d106f75a9ea6db59 *inst/include/pegtl/internal/enable.hpp
 fe8987820940c2f7b6205b9c16ca1e48 *inst/include/pegtl/internal/eof.hpp
 cfdd3d18051982e99e2f2f41c48df5bc *inst/include/pegtl/internal/eol.hpp
 0fc5a6fc6c9a81567ae8fa39c32a7242 *inst/include/pegtl/internal/eolf.hpp
-a48c09296729f8d2916efcb345fa317c *inst/include/pegtl/internal/file_mapper.hpp
+abefbfbbf06dfbc4f35cf832ae837771 *inst/include/pegtl/internal/file_mapper.hpp
 0e263b25d826d8cf1454c77b00c07354 *inst/include/pegtl/internal/file_opener.hpp
 4df25f09111495046c2a435397d2cbd9 *inst/include/pegtl/internal/file_reader.hpp
 8be493fabbb38c2806dfd09cfe712679 *inst/include/pegtl/internal/has_apply0.hpp
@@ -142,6 +143,6 @@ b1943fb6ec8f2bbd149d260172928d9c *inst/include/pegtl/tracking_mode.hpp
 152f3d23a999d5ced51a1892e0a11061 *src/Makevars
 fc83404b1e468c55d4c2a022d0871720 *src/RcppExports.cpp
 435883690ffa60672da7e0b5d3144ed3 *src/init.c
-8144aab6284fa7befad41e9359b20909 *src/peg_test.cpp
+8c1a740504c32e32961206e1f5901fdc *src/peg_test.cpp
 acab1c65fffa95a3eeeae94daefdd3a4 *tests/testthat.R
 5ac63f7a0aa8398d2ebf3240d92e06e3 *tests/testthat/test_sum.R
