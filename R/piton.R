@@ -8,6 +8,5 @@
 #' or \code{\link{peg_sum}} for an example.
 #' @useDynLib piton, .registration = TRUE
 #' @importFrom Rcpp sourceCpp
-#' @docType package
 #' @aliases piton piton-package
-NULL
+"_PACKAGE"

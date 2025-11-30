@@ -1,10 +1,10 @@
-6902a9dfb76f157bfaabdd89216d9987 *DESCRIPTION
+1a7b5fafcacd920991d06d1a713c1b57 *DESCRIPTION
 9f2197bf7fbe4cf24114acff55d72587 *LICENSE
 2240d07b29f133eb49ecc3ee95bcc7c7 *NAMESPACE
 4b06767dcd7bf7840341983c64c0a0c8 *NEWS
 d9de5dccc81a90b9d44bfb9a84fa3efc *R/RcppExports.R
-13e4b32f06e8c8dbe10ba9a16d758610 *R/piton.R
-33451115ef21afdb2abff8ba17b45e5e *README.md
+ec489d1e93bd3c26413d0c5f130d3218 *R/piton.R
+6009a21e587b723fe634aa5fad7f88d5 *README.md
 a56f730b7c4df2525f65ce36bc9ed657 *inst/include/pegtl.hpp
 abbe8d924bc05ad9d0c64c7aea81bc44 *inst/include/pegtl/analysis/analyze_cycles.hpp
 b5fa12f963e724a4e06194fa26c6575c *inst/include/pegtl/analysis/counted.hpp
@@ -185,9 +185,9 @@ b19704ae5f504047d8e75b392fbd5f5c *inst/include/pegtl/utf16.hpp
 2ce85ed35343cded429aa30f3556f554 *inst/include/pegtl/utf8.hpp
 29aa298bdb8824cd39572235a6e339ca *inst/include/pegtl/version.hpp
 4a2b9f4484995599312fa57c7d4725e3 *man/peg_sum.Rd
-81495779e5e3fe914a76b65bd27866f2 *man/piton.Rd
-152f3d23a999d5ced51a1892e0a11061 *src/Makevars
-9687c13f4f24e032b2eda36c62219cdf *src/RcppExports.cpp
+87770fbc2d6fb1b129833f5164c40111 *man/piton.Rd
+a4791667d570aa373d3accd2c0342f70 *src/Makevars
+380c2e720bed47ba942a17e1af54b784 *src/RcppExports.cpp
 a56dc7ef25b903746966a43e6ea16b47 *src/peg_test.cpp
 acab1c65fffa95a3eeeae94daefdd3a4 *tests/testthat.R
 5ac63f7a0aa8398d2ebf3240d92e06e3 *tests/testthat/test_sum.R

@@ -14,3 +14,14 @@ in other Rcpp codebases using \code{depends} functionality, and is platform-inde
 the \href{https://github.com/Ironholds/piton/blob/master/README.md}{README},
 or \code{\link{peg_sum}} for an example.
 }
+\author{
+\strong{Maintainer}: Os Keyes \email{ironholds@gmail.com}
+
+Other contributors:
+\itemize{
+  \item Duncan Garmonsway [contributor]
+  \item Colin Hirsch [copyright holder]
+  \item Daniel Frey [copyright holder]
+}
+
+}
